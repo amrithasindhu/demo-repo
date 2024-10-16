@@ -5,6 +5,7 @@
     </title>
     <body>
         <h1>Area</h1>
+              <h1>Areas</h1>
         <form action="" method="POST">
             <input name="length" type="number" placeholder="Enter the length">
             <input name="breadth" type="number" placeholder="Enter the breadth">
